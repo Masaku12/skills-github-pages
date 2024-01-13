@@ -5,10 +5,10 @@ date: 2024-01-14
 
 Embarking on your GitHub Pages journey is an exciting step towards establishing your online presence. Whether you're a developer, designer, or enthusiast eager to share your projects, this beginner's guide will walk you through what to expect as you dive into the world of GitHub Pages.
 
-Understanding GitHub Pages
+## Understanding GitHub Pages
 GitHub Pages is a hosting service provided by GitHub that allows you to turn your GitHub repositories into accessible websites. It's an excellent way to showcase your portfolio, projects, or personal website without the need for external hosting.
 
-Key Expectations for Beginners
+## Key Expectations for Beginners
 1. Repository Naming Convention
 When setting up your GitHub Pages site, keep in mind the importance of the repository name. The repository should be named <username>.github.io, replacing <username> with your actual GitHub username. This specific naming convention ensures that GitHub recognizes it as your primary GitHub Pages repository.
 
@@ -42,5 +42,5 @@ Once your GitHub Pages site is live, explore customization options. You can add 
 6. Documentation Exploration
 GitHub Pages has extensive documentation covering advanced features. As you become more comfortable, explore topics like custom domains, Jekyll integration, and utilizing GitHub Pages themes.
 
-Final Thoughts
+## Final Thoughts
 Embarking on your GitHub Pages journey is a rewarding experience. It provides a platform to showcase your skills, projects, and creativity to a broader audience. Experiment, learn, and enjoy the process of building your online presence with GitHub Pages. Happy coding! 🚀
