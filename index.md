@@ -37,9 +37,9 @@ By seamlessly integrating user-centric interfaces with powerful backend function
 
 ## Connect with Me
 
-- GitHub: [Your GitHub Profile](https://github.com/Masaku12)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ambrosematata/)
-- Twitter: [Your Twitter Handle](https://twitter.com/MatataAmbrose)
+- GitHub: [My GitHub Profile](https://github.com/Masaku12)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ambrosematata/)
+- Twitter: [My Twitter Handle](https://twitter.com/MatataAmbrose)
 
 Feel free to explore my repositories and projects. If you have any questions or collaboration ideas, don't hesitate to reach out!
 
